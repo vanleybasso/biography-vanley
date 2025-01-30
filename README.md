@@ -13,4 +13,4 @@ Este é um projeto de uma biografia simples, desenvolvido com **React**, **TypeS
 
 Acesse o site hospedado no **Netlify**:
 
-[https://vanley-bio.netlify.app](https://vanley-bio.netlify.app)
+[https://vanley.netlify.app](https://vanley.netlify.app)
